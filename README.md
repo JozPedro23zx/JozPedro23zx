@@ -1,22 +1,64 @@
+<h1 align="center">JOSÉ PEDRO</h1>
+<p align="center">
+  Junior Fullstack Developer
+</p>
 
-<p align="left">  
-</p>  
-  
-<h4 align="left">Languages:</h4>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+---
 
-<h4 align="left">Frontend:</h4>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+### About Me
 
-<h4 align="left">Devops:</h4>  
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+I'm a Junior Fullstack Developer focused on building clean, scalable and maintainable applications.
 
-<h4 align="left">Backend:</h4>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+I have professional experience working with modern backend and frontend technologies.
 
-<h4 align="left">Database:</h4>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+---
 
-<br>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jozpedro23zx&show_icons=true&locale=en&layout=compact" alt="jozpedro23zx" /></p>
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp" />
+</p>
+
+### Frameworks & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss" />
+</p>
+
+### Messaging & Streaming
+
+<p>
+  <img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx" />
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
+</p>
+
